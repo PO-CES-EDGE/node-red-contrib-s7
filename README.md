@@ -1,3 +1,7 @@
+# DISCLAIMER
+This project is a fork of https://github.com/st-one-io/node-red-contrib-s7 with the main purpose of updating the dependency to a version of 'nodes7' that has been identified as having fewer bugs. More details about the code changes in the 'nodes7' are available here: https://github.com/st-one-io/nodes7/pull/9.
+While efforts have been made to ensure that this fork is compatible with the original project, additional testing is recommended before use in a production environment. Please note that this fork may have different behavior or features compared to the original project.  
+
 # node-red-contrib-s7
 A Node-RED node to interact with Siemens S7 PLCs.
 
